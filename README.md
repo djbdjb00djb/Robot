@@ -1,1 +1,3 @@
-this directory include all the handsfree robot information , there are three platforms,3WD,2WD, and the human form. File includes all the mechanical model of the robot descriptions , as well as manual of the robot you can get it from baidu cloud disk http://pan.baidu.com/s/1jI2dzZC#path=%252F
+this directory include all the handsfree robot information , includes all the mechanical model as well as manual     
+you can get it from baidu cloud disk:       
+http://pan.baidu.com/s/1jI2dzZC#path=%252F
